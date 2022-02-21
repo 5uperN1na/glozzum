@@ -1,0 +1,11 @@
+.navbar .nav-link {
+    font-size: 14px;
+    padding-left: 1rem !important;
+    padding-right: 1rem !important;
+}
+
+.navbar .nav-item.active {
+    border-left: #4444 3px solid;
+
+
+}
